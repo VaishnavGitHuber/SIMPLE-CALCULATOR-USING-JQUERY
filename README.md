@@ -1,2 +1,4 @@
-# SIMPLE-CALCULATOR-USING-JQUERY
-This is a simple Calculator using jquery
+### SIMPLE-CALCULATOR-USING-JQUERY
+
+#### OUTPUT: 
+![](RESULT/VIDEO.png)
